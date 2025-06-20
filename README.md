@@ -1,5 +1,4 @@
 <h1 align="left">About me</h1>
----
 
 #### 🔭 What am I currently working on?
 > **Data Science projects & real-world datasets**
@@ -22,8 +21,6 @@
 #### ⚡ Fun fact
 > **I’m always learning and exploring new things — knowledge is my superpower!**
 
----
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/nivja13838" target="_blank">
@@ -33,8 +30,6 @@
     <img align="center" src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40" height="40" />
   </a>
 </p>
-
----
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -55,10 +50,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=krishnanivja12&show_icons=true&theme=radical" alt="krishnanivja12 GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=krishnanivja12&theme=radical" alt="krishnanivja12 streak" />
 </p>
 
 <p align="center">
