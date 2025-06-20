@@ -6,34 +6,43 @@
 </p>
 
 <p align="left">
-  <a href="https://twitter.com/nivja13838" target="blank">
-    <img src="https://img.shields.io/twitter/follow/nivja13838?logo=twitter&style=for-the-badge" alt="nivja13838" />
+  <a href="https://twitter.com/nivja13838" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/nivja13838?logo=twitter&color=1DA1F2&style=for-the-badge" alt="Twitter Follow" />
   </a>
 </p>
 
-- 🔭 I’m currently working on **Data Science projects & real-world datasets**
+---
 
-- 🌱 I’m currently learning **advanced Machine Learning, Deep Learning & AI**
+### 🔭 What am I working on?
+> **I’m currently working on data science projects & real-world datasets.**
 
-- 👯 I’m looking to collaborate on **data science & ML projects**
+### 🌱 What am I learning?
+> **I’m currently learning advanced machine learning, deep learning & AI.**
 
-- 🤝 I’m looking for help with **new career opportunities**
+### 🤝 Looking for help with?
+> **I’m actively seeking new career opportunities.**
 
-- 💬 Ask me about **Python, Machine Learning, and SQL — I’d love to help!**
+### 👯 Looking to collaborate on?
+> **I’d love to collaborate on data science & ML projects.**
 
-- 📫 How to reach me **krishnanivja249@gmail.com**
+### 💬 Ask me about:
+> **Python, Machine Learning, SQL — I’d love to help!**
 
-- ⚡ Fun fact **I’m always learning and exploring new things.**
+### 📫 How to reach me?
+> **krishnanivja249@gmail.com**
+
+### ⚡ Fun fact:
+> **I’m always learning and exploring new things.**
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/nivja13838" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nivja13838" height="30" width="40" />
+  <a href="https://twitter.com/nivja13838" target="_blank">
+    <img align="center" src="https://img.icons8.com/color/48/twitter.png" alt="Twitter" height="40" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/me/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/me/" target="_blank">
+    <img align="center" src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="40" width="40" />
   </a>
 </p>
 
@@ -41,50 +50,26 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
+  <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/python.png" alt="Python" width="48" height="48"/></a>
+  <a href="https://www.tensorflow.org" target="_blank"><img src="https://img.icons8.com/color/48/tensorflow.png" alt="TensorFlow" width="48" height="48"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.icons8.com/color/48/pandas.png" alt="Pandas" width="48" height="48"/></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://img.icons8.com/color/48/scikit-learn.png" alt="Scikit-learn" width="48" height="48"/></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL" width="48" height="48"/></a>
+  <a href="https://opencv.org/" target="_blank"><img src="https://img.icons8.com/color/48/opencv.png" alt="OpenCV" width="48" height="48"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/git.png" alt="Git" width="48" height="48"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://img.icons8.com/color/48/docker.png" alt="Docker" width="48" height="48"/></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS" width="48" height="48"/></a>
 </p>
 
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnanivja12&show_icons=true&locale=en&layout=compact" alt="krishnanivja12" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnanivja12&show_icons=true&locale=en&layout=compact" alt="krishnanivja12" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnanivja12&" alt="krishnanivja12" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnanivja12" alt="krishnanivja12" /></p>
 
 ---
 
-## 🐍 GitHub Contribution Snake Game
+## 🐍 GitHub Contribution Snake
 
 <p align="center">
   <img alt="Snake animation" src="https://github.com/Krishnanivja12/Krishnanivja12/raw/output/snake.svg" />
