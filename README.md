@@ -1,6 +1,5 @@
-<h1 align="center">I'm Krishna Nivja</h1>
-<h3 align="center">Data Science Intern | Passionate about Machine Learning & AI</h3>
-
+<h1 align="center">About me</h1>
+--
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=krishnanivja12&label=Profile%20views&color=0e75b6&style=flat" alt="krishnanivja12" />
 </p>
@@ -66,10 +65,6 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnanivja12&show_icons=true&locale=en&layout=compact" alt="krishnanivja12" /></p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnanivja12" alt="krishnanivja12" /></p>
-
----
-
-## 🐍 GitHub Contribution Snake
 
 <p align="center">
   <img alt="Snake animation" src="https://github.com/Krishnanivja12/Krishnanivja12/raw/output/snake.svg" />
