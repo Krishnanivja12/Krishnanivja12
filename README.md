@@ -33,27 +33,24 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <img src="https://img.icons8.com/color/48/python.png" alt="Python" width="40" height="40"/> 
-  <img src="https://img.icons8.com/color/48/tensorflow.png" alt="TensorFlow" width="40" height="40"/> 
-  <img src="https://img.icons8.com/color/48/pandas.png" alt="Pandas" width="40" height="40"/> 
-  <img src="https://img.icons8.com/color/48/scikit-learn.png" alt="scikit-learn" width="40" height="40"/> 
-  <img src="https://img.icons8.com/color/48/postgreesql.png" alt="Postgres" width="40" height="40"/> 
-  <img src="https://img.icons8.com/color/48/opencv.png" alt="OpenCV" width="40" height="40"/> 
-  <img src="https://img.icons8.com/color/48/git.png" alt="Git" width="40" height="40"/> 
-  <img src="https://img.icons8.com/color/48/docker.png" alt="Docker" width="40" height="40"/> 
-  <img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS" width="40" height="40"/> 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" width="50" height="50" alt="scikit-learn" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50" height="50" alt="TensorFlow" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" alt="Git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" />
+</p>
+
 </p>
 
 ---
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=krishnanivja12&show_icons=true&theme=radical" alt="krishnanivja12 GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnanivja12&layout=compact&theme=radical" alt="krishnanivja12 top languages" />
 </p>
 
 ---
