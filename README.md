@@ -62,8 +62,15 @@ I’m always learning and exploring new things!
 
 
 <!--Snake Game-->
+<div class="flex flex-col items-center justify-center my-10">
+  <div class="bg-gray-900 p-4 rounded-lg shadow-lg border border-purple-500 hover:scale-105 transition-transform duration-300">
+    <img src="https://raw.githubusercontent.com/krishnanivja12/krishnanivja12/output/snake.svg" alt="GitHub Contribution Snake Animation" class="w-full max-w-3xl rounded-md" />
+  </div>
+  <p class="mt-4 text-center text-white text-sm md:text-base">
+    🐍 GitHub Contribution Snake Animation – Watch how I code every day!
+  </p>
+</div>
 
-![Snake animation](https://raw.githubusercontent.com/krishnanivja12/krishnanivja12/output/snake.svg)
 
 
 
