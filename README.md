@@ -37,7 +37,31 @@ I’m always learning and exploring new things!
 
 <h2 style="font-size: 28px; font-weight: bold; color: #58a6ff;">📊 My GitHub Stats</h2>
 
-<div align="left" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;"> <!-- Left Side: Top Languages (vertical card) --> <div> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnanivja12&layout=compact&theme=radical&langs_count=8" height="310" alt="Top Languages"/> </div> <!-- Right Side: Two horizontal cards --> <div> <img src="https://github-readme-stats.vercel.app/api?username=krishnanivja12&show_icons=true&count_private=true&theme=radical" height="150" alt="GitHub Stats" style="margin-bottom: 10px;" /> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnanivja12&theme=radical" height="150" alt="GitHub Streak" /> </div> </div>
+  <!-- Left: Top Languages -->
+  <div class="hover:scale-105 transition-transform duration-3">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnanivja12&layout=compact&theme=radical&langs_count=8"
+         alt="Top Languages"
+         class="h-[150px] rounded shadow-lg border border-purple-100" />
+  </div>
+
+  <!-- Right: Stats and Streak (Stacked) -->
+  <div class="flex flex-col gap-4">
+    <div class="hover:scale-105 transition-transform duration-300">
+      <img src="https://github-readme-stats.vercel.app/api?username=krishnanivja12&show_icons=true&count_private=true&theme=radical"
+           alt="GitHub Stats"
+           class="h-[150px] rounded shadow-lg border border-purple-500" />
+    </div>
+    <div class="hover:scale-105 transition-transform duration-300">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnanivja12&theme=radical"
+           alt="GitHub Streak"
+           class="h-[150px] rounded shadow-lg border border-purple-500" />
+    </div>
+  </div>
+
+</div>
+
+
+<!--Snake Game-->
 
 ![Snake animation](https://raw.githubusercontent.com/krishnanivja12/krishnanivja12/output/snake.svg)
 
