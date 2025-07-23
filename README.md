@@ -51,12 +51,23 @@ class KrishnaNivja:
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnanivja12&layout=compact&theme=radical&langs_count=8" />
+  <!-- 🧠 Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnanivja12&layout=compact&langs_count=6&theme=tokyonight&bg_color=00000000" 
+    alt="Top Languages"
+    width="400px"
+  />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnanivja12&show_icons=true&count_private=true&theme=radical" />
+
+  <!-- 🛠 GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=krishnanivja12&show_icons=true&count_private=true&theme=tokyonight&bg_color=00000000"
+    alt="GitHub Stats"
+    width="450px"
+  />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnanivja12&theme=radical" />
-</p>
+
+
 
 <h2 align="left">🐍 GitHub Contribution Snake</h2>
 
