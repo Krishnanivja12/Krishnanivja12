@@ -60,9 +60,9 @@ class KrishnaNivja:
 
 <h2 align="left">🐍 GitHub Contribution Snake</h2>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Krishnanivja12/krishnanivja12/output/snake.svg" alt="GitHub Contribution Snake Animation" />
-</p>
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 
 
