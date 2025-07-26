@@ -7,10 +7,7 @@ class KrishnaNivja:
         self.email = "krishnanivja249@gmail.com"
         self.linkedin = "https://linkedin.com/in/krishnanivja"
         self.github = "https://github.com/Krishnanivja12"
-        self.interests = [
-            "ML & DL", "NLP", "Generative AI", "Data Science",
-            "Open Source", "AI Projects"
-        ]
+        self.interests = ["ML & DL", "NLP", "Generative AI", "Data Science","Open Source", "AI Projects"]
 
     def about_me(self):
         return (
