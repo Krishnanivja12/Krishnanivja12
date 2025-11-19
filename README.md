@@ -1,4 +1,4 @@
-```python gfgdf
+```python gfgdfyrtytrd
 class KrishnaNivja:
     def __init__(self):
         self.name = "Krishna Nivja"
