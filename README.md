@@ -1,5 +1,5 @@
 ```python    
-class KrishnaNivja:
+class KrishnaNivja:        
     def __init__(self):
         self.name = "Krishna Nivja"
         self.role = "AI Engineer & Data Scientist"
