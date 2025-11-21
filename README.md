@@ -3,7 +3,7 @@ class KrishnaNivja:
     def __init__(self):
         self.name = "Krishna Nivja"
         self.role = "AI Engineer & Data Scientist"
-        self.location = "India 🇮🇳"
+        self.location = "India 🇮🇳"       
         self.email = "krishnanivja249@gmail.com"
         self.linkedin = "https://linkedin.com/in/krishnanivja"
         self.github = "https://github.com/Krishnanivja12"
