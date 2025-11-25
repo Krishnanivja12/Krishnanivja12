@@ -23,6 +23,19 @@ class KrishnaNivja:
             "MLOps (MLflow, CI/CD)"
         ]
 ```
+
+## 📊 My Activity Status
+
+  <a href="https://discord.gg/svm7yjkeBp">
+    <img 
+      src="https://lanyard-profile-readme.vercel.app/api/1324221214671245406?bg=https://i.pinimg.com/1200x/42/70/0e/42700ecf8c14a8308399294863d8875e.jpg&theme=dark&animated=true&idleMessage=Probably%20chilling...&borderRadius=25px"
+      alt="Discord Presence"
+      width="450px"
+      style="border-radius: 25px; box-shadow: 0 0 15px rgba(0,0,0,0.5);"
+    />
+  </a>
+</div>
+
 ## 📫 Connect With Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-Email-%23D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:krishnanivja249@gmail.com)
@@ -49,40 +62,11 @@ class KrishnaNivja:
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <!-- 🧠 Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnanivja12&layout=compact&langs_count=6&theme=tokyonight&bg_color=00000000" 
-    alt="Top Languages"
-    width="400px"
-  />
-  <br/>
-
-  <!-- 🛠 GitHub Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=krishnanivja12&show_icons=true&count_private=true&theme=tokyonight&bg_color=00000000"
-    alt="GitHub Stats"
-    width="450px"
-  />
-  <br/>
-
-
-
 <h2 align="left">🐍 GitHub Contribution Snake</h2>
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-## 🔝 Top Contributed Repo
-
+## Top Github 
 ![](https://github-contributor-stats.vercel.app/api?username=Krishnanivja12&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1324221214671245406?bg=https://i.pinimg.com/1200x/42/70/0e/42700ecf8c14a8308399294863d8875e.jpg&theme=dark&animated=true&idleMessage=Probably%20chilling...&borderRadius=25px)](https://discord.gg/svm7yjkeBp)
-
-
-
-
-
