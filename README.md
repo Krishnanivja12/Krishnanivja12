@@ -80,6 +80,8 @@ class KrishnaNivja:
 
 ![](https://github-contributor-stats.vercel.app/api?username=Krishnanivja12&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1324221214671245406?bg=https://i.pinimg.com/1200x/42/70/0e/42700ecf8c14a8308399294863d8875e.jpg&theme=dark&animated=true&idleMessage=Probably%20chilling...&borderRadius=25px)](https://discord.gg/svm7yjkeBp)
+
 
 
 
