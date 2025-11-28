@@ -1,4 +1,4 @@
-   ```python                 
+   ```python                  
 class KrishnaNivja:        
     def __init__(self):               
         self.name = "Krishna Nivja"
