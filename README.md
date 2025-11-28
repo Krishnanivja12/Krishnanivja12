@@ -1,6 +1,6 @@
 ```python               
 class KrishnaNivja:        
-    def __init__(self):              
+    def __init__(self):               
         self.name = "Krishna Nivja"
         self.role = "AI Engineer & Data Scientist"
         self.location = "India 🇮🇳"       
