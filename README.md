@@ -31,10 +31,7 @@
 [![Twitter](https://img.shields.io/badge/X_(Twitter)-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/nivja13838)
 
 </div>
-
 <br/>
-
----
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--              BENTO GRID — ROW 1: ABOUT + SNAPSHOT             -->
