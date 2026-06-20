@@ -44,10 +44,9 @@
 <tr>
 
 <!-- CELL 1 — About Me -->
-<td width="55%" valign="top">
+<td width="60%" valign="top">
 
 ### 🧠 &nbsp;`whoami`
-
 ```python
 class KrishnaNivja:
     role     = "AI/ML Engineer @ Steve's AI Lab"
@@ -63,14 +62,13 @@ class KrishnaNivja:
         return [
             "GeoSpatial AI platform (LangGraph + RAG)",
             "Multi-agent research systems (CrewAI)",
-            "Production LLM fine-tuning pipelines",
         ]
 ```
 
 </td>
 
 <!-- CELL 2 — Quick Stats -->
-<td width="45%" valign="top">
+<td width="40%" valign="top">
 
 ### 📊 &nbsp;GitHub Stats
 
