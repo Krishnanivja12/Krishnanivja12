@@ -13,7 +13,6 @@
 <a href="https://readme-typing-svg.herokuapp.com">
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Hi+I'm+Krishna+Nivja+👋" alt="Typing SVG" />
 </a>
-
 </div>
 
 <br/>
