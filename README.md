@@ -23,7 +23,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-7c3aed?style=for-the-badge&logoColor=white)](https://portfolio-website-two-coral-71.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-7c3aed?style=for-the-badge&logoColor=white)](https://krishna-ai-eight.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnanivja/)
 [![Gmail](https://img.shields.io/badge/Gmail-Reach_Out-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishnanivja249@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Krishnanivja12)
