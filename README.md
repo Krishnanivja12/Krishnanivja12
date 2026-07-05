@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      ANIMATED HEADER                         -->
+<!--                      ANIMATED HEADER                        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=160&section=header&animation=fadeIn" />
