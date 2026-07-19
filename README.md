@@ -40,42 +40,20 @@
 <tr>
 
 <!-- CELL 1 — About Me -->
-<td width="60%" valign="top">
 
 ### 🧠 &nbsp;`whoami`
 ```python
 class KrishnaNivja:
     role     = "AI/ML Engineer @ Steve's AI Lab"
     location = "Delhi-NCR, India 🇮🇳"
-    focus    = ["GenAI Systems", "LLM Fine-Tuning",
-                "Agentic RAG", "MLOps"]
+    focus    = ["GenAI Systems", "LLM Fine-Tuning", "Agentic RAG", "MLOps"]
     degree   = "B.Tech AI/ML — Graduating 2028"
-    open_to  = ["AI Engineer", "Applied AI",
-                "Forward Deployed Engineer",
-                "Developer Advocate"]
+    open_to  = ["AI Engineer", "Applied AI", "Forward Deployed Engineer", "Developer Advocate"]
 
     def currently_building(self):
         return [
-            "GeoSpatial AI platform (LangGraph + RAG)",
-            "Multi-agent research systems (CrewAI)",
-        ]
+            "GeoSpatial AI platform (LangGraph + RAG)", "Multi-agent research systems (CrewAI)",]
 ```
-
-</td>
-
-<!-- CELL 2 — Quick Stats -->
-<td width="40%" valign="top">
-
-### 📊 &nbsp;GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Krishnanivja12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=7c3aed&text_color=c9d1d9&rank_icon=github" width="100%" alt="GitHub Stats"/>
-
-<img src="https://streak-stats.demolab.com?user=Krishnanivja12&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=7c3aed&currStreakLabel=c9d1d9" width="100%" alt="GitHub Streak"/>
-
-</td>
-
-</tr>
-</table>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--           BENTO GRID — ROW 4: TECH STACK                      -->
