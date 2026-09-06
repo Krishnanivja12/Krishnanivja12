@@ -95,25 +95,13 @@ class KrishnaNivja:
 ![Linux](https://img.shields.io/badge/Linux-fcc624?style=for-the-badge&logo=linux&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-f37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-<!--           BENTO GRID — ROW 5: ACTIVITY + TOP LANGS            -->
-## 🛠️ Activity
+
+
+
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishnanivja12&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a855f7&line=7c3aed&point=c084fc" width="96%" alt="Contribution Graph"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=150&section=footer" />
 </div>
----
-
-<!--              CONTRIBUTION SNAKE + FOOTER                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
----
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Krishnanivja12&style=flat-square&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views"/>
-<br/><br/>
-
-*"The best AI systems aren't built in notebooks — they're built in production."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=100&section=footer" />
-
 </div>
 
 
